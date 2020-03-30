@@ -1,0 +1,4 @@
+The hardware is still open but I think of the RAM memory and the processor in the same module.
+Nand memory, display, battery, and other peripherals could be in other modules.
+
+I still think if we will connect the modules by serial communication or direct pins.
